@@ -1,0 +1,54 @@
+/.gradle/buildOutputCleanup/outputFiles.bin
+/.idea/jarRepositories.xml
+/.idea/vcs.xml
+/.gradle/vcs-1/gc.properties
+/gradlew.bat
+/.idea/misc.xml
+/.gradle/6.7/fileHashes/fileHashes.bin
+/.idea/compiler.xml
+/.gradle/6.7/executionHistory/executionHistory.lock
+/.gradle/6.7/fileChanges/last-build.bin
+/.gradle/checksums/checksums.lock
+/.idea/modules/Day_16_LinkedList.iml
+/.idea/workspace.xml
+/.gradle/6.7/gc.properties
+/.gradle/buildOutputCleanup/cache.properties
+/.gradle/configuration-cache/gc.properties
+/gradlew
+/gradle/wrapper/gradle-wrapper.jar
+/.idea/.name
+/settings.gradle
+/.idea/gradle.xml
+/.idea/google-java-format.xml
+/.gradle/buildOutputCleanup/buildOutputCleanup.lock
+/.gradle/6.7/fileHashes/fileHashes.lock
+/.idea/modules/Day_16_LinkedList.main.iml
+/gradle/wrapper/gradle-wrapper.properties
+/build.gradle
+/.idea/modules/Day_16_LinkedList.test.iml
+/.gradle/6.7/executionHistory/executionHistory.bin
+### Java template
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
