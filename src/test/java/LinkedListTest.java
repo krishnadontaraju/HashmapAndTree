@@ -19,8 +19,7 @@ public class LinkedListTest {
          *Asserting that the first node points to second and second points to third Node
          */
         Assertions.assertTrue(firstNode.getNextNode().equals(secondNode) && secondNode.getNextNode().equals(thirdNode));
-        //New BRanch test
-        //new 3
+
 
     }
 }
