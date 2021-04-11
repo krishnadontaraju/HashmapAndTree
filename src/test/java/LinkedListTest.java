@@ -20,6 +20,7 @@ public class LinkedListTest {
          */
         Assertions.assertTrue(firstNode.getNextNode().equals(secondNode) && secondNode.getNextNode().equals(thirdNode));
         //New BRanch test
+        //new 3
 
     }
 }
