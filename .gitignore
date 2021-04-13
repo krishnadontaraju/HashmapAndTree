@@ -52,3 +52,21 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 
+/build/reports/tests/test/css/base-style.css
+/.gradle/6.7/javaCompile/classAnalysis.bin
+/build/reports/tests/test/packages/default-package.html
+/build/reports/tests/test/classes/HashMapTest.html
+/build/reports/tests/test/index.html
+/build/tmp/compileJava/source-classes-mapping.txt
+/build/test-results/test/TEST-HashMapTest.xml
+/build/reports/tests/test/css/style.css
+/build/test-results/test/binary/output.bin
+/build/tmp/compileTestJava/source-classes-mapping.txt
+/.gradle/6.7/fileHashes/resourceHashesCache.bin
+/.gradle/6.7/javaCompile/javaCompile.lock
+/build/test-results/test/binary/results.bin
+/build/reports/tests/test/js/report.js
+/.gradle/6.7/javaCompile/taskHistory.bin
+/build/test-results/test/binary/output.bin.idx
+/.gradle/6.7/javaCompile/jarAnalysis.bin
+/.idea/uiDesigner.xml

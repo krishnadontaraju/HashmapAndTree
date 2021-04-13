@@ -1,26 +1,28 @@
-public class NodeClass<K> {
-    public K value;
-    public NodeClass nextNode;
+public class NodeClass<K> implements ParentNode<K> {
+    public K key;
+    public ParentNode nextNode;
 
 
-    NodeClass(K value){
-        this.value = value;
+    public NodeClass(K value) {
+        this.key = value;
+        this.nextNode = null;
     }
 
-    public NodeClass<K> getNextNode() {
+    public ParentNode getNextNode() {
         return nextNode;
     }
 
-    public void setNextNode(NodeClass<K> nextNode) {
+
+    public void setNextNode(ParentNode nextNode) {
         this.nextNode = nextNode;
     }
 
-    public K getValue() {
-        return value;
+    public K getKey() {
+        return key;
     }
 
-    public void setValue(K value) {
-        this.value = value;
+    public void setKey(K value) {
+        this.key = value;
     }
 }
 
